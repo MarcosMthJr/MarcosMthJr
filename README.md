@@ -1,12 +1,6 @@
 <div align="center">
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarcosMthJr&theme=react&show_icons=true)](https://github.com/marcosmthjr/github-readme-stats)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosmthjr&layout=compact&theme=react)](https://github.com/marcosmthjr/github-readme-stats)
-
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosmthjr&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
