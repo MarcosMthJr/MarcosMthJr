@@ -1,6 +1,4 @@
 <div align="center">
-## Status:
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarcosMthJr&theme=react&show_icons=true)](https://github.com/marcosmthjr/github-readme-stats)
 
 ---
